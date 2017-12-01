@@ -1,0 +1,10 @@
+"","article1.txt","article2.txt","article3.txt","article4.txt","article5.txt","article6.txt","article7.txt","article8.txt","article9.txt"
+"article1.txt",1,1,1,0,0,0,1,0,1
+"article2.txt",1,1,0,0,1,0,0,0,1
+"article3.txt",1,0,1,1,0,0,0,0,1
+"article4.txt",0,0,1,1,1,0,1,0,0
+"article5.txt",0,1,0,1,1,0,0,0,1
+"article6.txt",0,0,0,0,0,1,0,1,0
+"article7.txt",1,0,0,1,0,0,1,1,0
+"article8.txt",0,0,0,0,0,1,1,1,0
+"article9.txt",1,1,1,0,1,0,0,0,1
